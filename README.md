@@ -1,2 +1,3 @@
-# my-unity-games
-My Unity games on C#
+# cat-mario-remake
+
+Remake of Cat Mario!
